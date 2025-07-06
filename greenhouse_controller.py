@@ -1,5 +1,9 @@
 # greenhouse_controller.py
-# codes snippets & guides that we use
+# NOTE:
+# This Python script is a reconstructed version based on the project documentation
+# and system description. The original source file was not preserved.
+# Components and logic were faithfully replicated from available records.
+
 
 import Adafruit_DHT
 import smbus2
