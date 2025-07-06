@@ -1,5 +1,5 @@
-
 # greenhouse_controller.py
+# codes snippets & guides that we use
 
 import Adafruit_DHT
 import smbus2
