@@ -58,7 +58,7 @@ The main code integrates:
 - `RPi.GPIO` for GPIO pin control
 - `blynklib` for remote monitoring via Blynk
 
-> See sample in [`raspi_code.py`](#) (Replace with real path once uploaded)
+> See sample in [`.py file`](#) 
 
 Key functions:
 ```python
